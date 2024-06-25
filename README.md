@@ -1,4 +1,4 @@
-# Excel
+# Excel Projects
 
 About: For this project I'll be exploring the Jitters Coffee Shop dataset. I'll clean, analyze, and create a dashboard in-order to illustrate metrics thats accurately convery the business past performance. 
 
